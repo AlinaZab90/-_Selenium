@@ -5,7 +5,7 @@ class MainPageLocators():
 
 
 class LoginPageLocators():
-    login_url = "http://selenium1py.pythonanywhere.com/"
+    login_url = "http://selenium1py.pythonanywhere.com/en-gb/accounts/login/"
 
     login_form = (By.CSS_SELECTOR, "login_form")
 
